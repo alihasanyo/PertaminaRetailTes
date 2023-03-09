@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/projects/TesPertaminaRetail/app/src/main/res/drawable/border_linear.xml" value="0.35555555555555557" />
+        <entry key="..\:/projects/TesPertaminaRetail/app/src/main/res/drawable/ic_close.xml" value="0.36574074074074076" />
+        <entry key="..\:/projects/TesPertaminaRetail/app/src/main/res/layout/activity_item.xml" value="0.3451086956521739" />
+        <entry key="..\:/projects/TesPertaminaRetail/app/src/main/res/layout/activity_main.xml" value="0.3500905797101449" />
+        <entry key="..\:/projects/TesPertaminaRetail/app/src/main/res/layout/activity_search_item.xml" value="0.3645833333333333" />
+        <entry key="..\:/projects/TesPertaminaRetail/app/src/main/res/layout/item_layout.xml" value="0.35260416666666666" />
+        <entry key="..\:/projects/TesPertaminaRetail/app/src/main/res/layout/item_search_layout.xml" value="0.3645833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
